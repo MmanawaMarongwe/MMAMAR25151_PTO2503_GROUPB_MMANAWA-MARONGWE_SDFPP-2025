@@ -2,6 +2,12 @@ body {
     background-color: #7b7b7b;
 }
 
+section {
+    background-color: whitesmoke;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
 .container {
     padding: .5rem;
 }
