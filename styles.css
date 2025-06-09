@@ -1,0 +1,29 @@
+body {
+    background-color: #7b7b7b;
+}
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  margin-bottom: 1rem;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.header-item {
+  font-size: 1rem;
+  width: 50%;
+  border-radius: 1rem;
+}
+
+.profile-pic {
+    width: 11rem;
+    margin-left: .1rem;
+    border-radius: 1rem;
+}
+
+#about {
+    background-color: whitesmoke;
+    padding: 1rem;
+}
